@@ -6,6 +6,8 @@ https://www.toptal.com/developers/gitignore?templates=python,visualstudio,git
 ### Custom ###
 .vv
 docker/
+env.py
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
